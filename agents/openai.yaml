@@ -1,0 +1,4 @@
+interface:
+  display_name: "岗位AI工作台搭建顾问"
+  short_description: "从岗位访谈到需求、视觉设计、可运行工作台和验收"
+  default_prompt: "使用 $role-ai-workbench-consultant，先了解我的岗位和日常工作，再逐步帮我搭建岗位 AI 工作台。"
